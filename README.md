@@ -14,35 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<div class="container">
-  <div class="perfil">
-    <div class="perfil-foto">
-      <img id="foto" src="inabakumori.jpg" alt="Foto Minha">
-    </div>
-    <div>
-      <h1 class="perfil-nome">Kauê Medeiros Guedes De Sá</h1>
-      <p class="cargo">Desenvolvedor de Software</p>
-      <p class="desc"></p>
-    </div>
-  </div>
-
-  <br><br><hr><br><br>
-
-  <div class="informacoes">
-    <div class="about-me">
-      <h1>Sobre Mim</h1>
-      <p>Tenho 18 anos, estudo Análise e Desenvolvimento na Etec Albert Einstein e tenho foco em Back-End, também me interesso por outras áreas
-      como Matemática, Física, Biologia e idiomas, no tempo livre gosto de estudar outros idiomas ou jogar Tibia e OSU</p>
-    </div>
-    <div class="languages">
-    <h1>Linguagens de Programação</h1>
-    <p>Atualmente estudo C# para desenvolvimento Desktop, HTML/CSS para desenvolvimento Front-End e Javascript para Back-End</p>
-  </div>
-</div>
-</div>
-
 <h1 align="center">Hi 👋, I'm Kauê Medeiros</h1>
 <h3 align="center">Fullstack Developer - Brasil</h3>
 
