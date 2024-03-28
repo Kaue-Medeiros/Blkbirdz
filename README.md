@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kauê Medeiros</h1>
 <h3 align="center">Desenvolvedor Fullstack - Brasil</h3>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning:  **javascript**, **html5**, **cs3**
 
-- 📫 How to reach me **kaue.medeirosguedes@gmail.com**
+- 📫 How to reach me: **kaue.medeirosguedes@gmail.com**
 
-- ⚡ Fun fact **Gosto de insetos**
+- ⚡ Fun fact: **I like Insects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
