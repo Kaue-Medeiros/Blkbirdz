@@ -1,0 +1,32 @@
+.perfil{
+    margin:0;
+    padding:0;
+    text-align: center;
+}
+
+#foto {
+    width:275px;
+    height:250px;
+    overflow: hidden;
+    border-radius: 50%;
+    display:inline-block;
+}
+
+.about-me {
+    width:500px;
+    text-align: center;
+    vertical-align: top;
+    margin-left:200px
+}
+h1 {
+    display: inline-block;
+}
+
+.languages {
+    width: 500px;
+    margin-left:390px;
+}
+
+.informacoes * {
+    display: inline-block;
+}
