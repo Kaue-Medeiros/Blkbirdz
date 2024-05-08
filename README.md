@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kauê Medeiros</h1>
 <h3 align="center">Fullstack Developer - Brasil</h3>
 
-- 🌱 I’m currently learning:  **javascript**, **html5**, **cs3**
+- 🌱 I’m currently learning:  **React-Js**, **Node-Js**, **Javascript**
 
 - 📫 How to reach me: **kaue.medeirosguedes@gmail.com**
 
